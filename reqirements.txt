@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+pydantic
+pydantic-settings
+google-auth
+google-auth-oauthlib
+python-jose[cryptography]
+netaddr
